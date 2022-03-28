@@ -15,13 +15,12 @@ import sys
 
 
 
-lib_location = 'function_lib'
 nodes_location = 'nodes_com.pickle'
 pop_file = 'msoa_IZ_pop.csv'
 
 
 
-import modlibrary as ml
+import function_lib as ml
 
 
 """contains sync_var which is the 1st attempt at a variable infection level at each node"""
