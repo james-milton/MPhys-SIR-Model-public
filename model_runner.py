@@ -20,7 +20,7 @@ pop_file = 'msoa_IZ_pop.csv'
 
 
 
-import function_lib as ml
+import function_library as ml
 
 
 """contains sync_var which is the 1st attempt at a variable infection level at each node"""
